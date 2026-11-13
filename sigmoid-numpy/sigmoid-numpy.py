@@ -11,4 +11,5 @@ def sigmoid(x: list | float) -> np.ndarray | float:
         return float(result)
 
     return result
+
     
